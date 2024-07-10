@@ -40,7 +40,7 @@ A simple Discord bot written in Python that responds to user messages with prede
 4. Create a `.env` file in the root directory of the project and add your Discord bot token:
 
     ```env
-    DISCORD_TOKEN=your-discord-bot-token
+    DISCORD_TOKEN=my-discord-bot-token
     ```
 
 ## Usage
